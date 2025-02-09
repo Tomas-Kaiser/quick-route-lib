@@ -18,6 +18,9 @@
   "keywords": [
     "quick-route"
   ],
+  "engines": {
+    "node": ">=20.0.0"
+  },
   "author": "Tomas",
   "license": "MIT",
   "devDependencies": {
